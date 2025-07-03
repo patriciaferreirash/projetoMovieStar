@@ -50,24 +50,3 @@ Criar uma aplicação web para gerenciamento de filmes, onde o usuário pode:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/patriciaferreirash/projetoMovieStar
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
